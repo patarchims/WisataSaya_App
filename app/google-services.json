@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "1057518316606",
+    "firebase_url": "https://tiketsaya-a5527.firebaseio.com",
+    "project_id": "tiketsaya-a5527",
+    "storage_bucket": "tiketsaya-a5527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057518316606:android:ba19005d4e557466",
+        "android_client_info": {
+          "package_name": "com.digitalsoftware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057518316606-qo70s4bhv92cfeih17ao74rt44fc1eg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSM2SVGY7CubCzMNb7Ec_PzdcrnsukNPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057518316606-qo70s4bhv92cfeih17ao74rt44fc1eg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1108707655570935~7889180887"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057518316606:android:c57556111e355afb",
+        "android_client_info": {
+          "package_name": "com.digitalsoftware.firstbelajar.tiketsaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057518316606-8eqbvsd9olu6e2c9rist70itoljngggd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalsoftware.firstbelajar.tiketsaya",
+            "certificate_hash": "f8b9e1aff3eec128f34dbb84b3863d90e2dde6b1"
+          }
+        },
+        {
+          "client_id": "1057518316606-qo70s4bhv92cfeih17ao74rt44fc1eg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSM2SVGY7CubCzMNb7Ec_PzdcrnsukNPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057518316606-qo70s4bhv92cfeih17ao74rt44fc1eg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057518316606:android:470d744d7d2eb826",
+        "android_client_info": {
+          "package_name": "com.digitalsoftware.firstbelajar.wisatasayaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057518316606-5ldom0157l8an9nhsvg7oudr5betlea9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalsoftware.firstbelajar.wisatasayaapp",
+            "certificate_hash": "f8b9e1aff3eec128f34dbb84b3863d90e2dde6b1"
+          }
+        },
+        {
+          "client_id": "1057518316606-qo70s4bhv92cfeih17ao74rt44fc1eg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSM2SVGY7CubCzMNb7Ec_PzdcrnsukNPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057518316606-qo70s4bhv92cfeih17ao74rt44fc1eg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
